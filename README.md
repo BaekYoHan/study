@@ -1,6 +1,7 @@
 안녕하세요
 =========
-## 반갑습니다
+
+## 반갑습니다 :)
 
 데이터분석 스터디를 위한 공간입니다.
 
@@ -9,7 +10,8 @@
 
 Hello!
 ======
-## Welcom to my space!!
+
+## Welcom to my space!! :)
 
 It's a space for Data analysis
 
