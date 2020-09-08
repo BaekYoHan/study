@@ -1,13 +1,13 @@
 안녕하세요
 =========
 
-이곳은 캐글 경진대회 스터디 공간입니다.
+이곳은 여러 데이터를 분석하고 코드소스를 공유하는 공간입니다.
 
-여러 경진대회 참여 및 스터디로 다양한 전처리 및 알고리즘에 대한 이해를 높여봅시다.
+즐기면서 데이터를 다뤄보자구여 :)
 
 Hello!
 ======
 
-This is a space to study kaggle competition.
+This is a space to analyze multiple data and share code sources.
 
-Let's develope your skill!
+Let's have fun and deal with the data :)
